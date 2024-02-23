@@ -1,6 +1,6 @@
-## Projects
+# Projects
 
-# [When Was the Golden Age of Video Games?](https://github.com/jchiros/video_game_sales.git)
+## [When Was the Golden Age of Video Games?](https://github.com/jchiros/video_game_sales.git)
 
 This is a project for DataCamp's SQL Course.
 
