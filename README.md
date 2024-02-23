@@ -1,5 +1,8 @@
 ## Projects
 
-# [When Was the Golden Age of Video Games?] (https://github.com/jchiros/video_game_sales.git)
+# [When Was the Golden Age of Video Games?] (https://github.com/jchiros/video_game_sales.git-)
 
-An analysis for video games created in 1977-2020.
+This is a project for DataCamp's SQL Course.
+
+* Data was taken from Kaggle.
+* SQL was used for analysis.
