@@ -11,5 +11,5 @@ This is a project for DataCamp's Intermediate SQL Course.
 
 A simple SQL project of DataCamps's SQL course. The data used in this project is provided by The World Bank. It contains both national and regional debt statistics for several countries across the globe as recorded from 1970 to 2015.
 
-* Used simple aggregate funtions to get statistics of given problem.
+* Used simple aggregate funtions to get statistics of a given problem.
   
